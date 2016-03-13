@@ -1,0 +1,9 @@
+[submodule ".emacs.d/workgroups.el"]
+	path = .emacs.d/workgroups.el
+	url = https://github.com/tlh/workgroups.el.git
+[submodule ".emacs.d/org-journal"]
+	path = .emacs.d/org-journal
+	url = https://github.com/bastibe/org-journal.git
+[submodule ".emacs.d/Fill-Column-Indicator"]
+	path = .emacs.d/Fill-Column-Indicator
+	url = https://github.com/alpaker/Fill-Column-Indicator.git
